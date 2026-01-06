@@ -29,7 +29,7 @@ Implemente metricas para la categorizar la eficiencia en operadores, en distinta
 **Resultado:**
 Se logró clasificar a los operadores en niveles de desempeño (eficiente, normal, deficiente y muy deficiente), proporcionando información clara para que los supervisores tomaran decisiones orientadas a la mejora de cada área operativa.
 
-**Enlace::** https://github.com/JesuSoto614/Eficiencia-en-Operadores-Telecomunicaciones-.git
+**Enlace::** https://github.com/AntonioSoto-DataAnalyst/Eficiencia-en-Operadores-Telecomunicaciones-.git
 
 
 
@@ -49,7 +49,7 @@ Complete y corregi las especificaciones tecnicas de un Test A/B, de una tienda e
 **Resultados:**
 Encontramos que existen errores en las especificaciones técnicas, resultando los usuarios de la unión europea como el mercado principal y no representando el 15% de los consumidores. Además de no haber diferencias entre el número de compras realizadas los primeros 14 días de actividad de cada usuario, en el grupo A y B.
 
-**Enlace::** https://github.com/JesuSoto614/TEST-A-B-Granja-de-Sandias.git
+**Enlace::**https://github.com/AntonioSoto-DataAnalyst/TEST-A-B-Granja-de-Sandias.git
 
 ### Análisis de Negocio KPI´s / Gastos de Marketing Showz 📊 
 Bootcamp TripleTen | 2025
@@ -64,6 +64,6 @@ Separe a los usuarios por sus hábitos de compra, analice  sus indicadores LTV (
 Con los resultados obtenidos podemos concluir que los usuarios que compran después de su primera sesión resultan ser más redituables a largo plazo.
 En cuanto a los métodos de marketing identificamos a los medios 1, 2 y 5 como los más redituables y al 6,7 y 3 como los que menos retornos dejan.
 
-**Enlace::** https://github.com/JesuSoto614/Analisis_de-_Negocio-KPIs.git
+**Enlace::** https://github.com/AntonioSoto-DataAnalyst/Analisis_de-_Negocio-KPIs.git
 
 
