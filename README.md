@@ -10,6 +10,8 @@ Analista de Datos Junior con bases en Python, SQL, Tableau, y sólida formación
 
 - Analista de Datos Junior, Certificado del Bootcamp Triple Ten 2025 
 - Contador Público, Titulado de la Universidad Autónoma de Chihuahua del 2018 al 2022
+- Español: nativo
+- Ingles: intermedio certificado por Planet English
 
 ## Proyectos 📁
 
