@@ -17,6 +17,7 @@ Analista de Datos Junior con bases en Python, SQL, Tableau, y sólida formación
 
 ### Telecomunicaciones – Eficiencia en Operadores ☎️
 Bootcamp TripleTen | 2025
+<img width="1132" height="615" alt="image (2)" src="https://github.com/user-attachments/assets/54912b26-dd2c-41c2-ab80-f49464b45fff" />
 
 Implemente metricas para la categorizar la eficiencia en operadores, en distintas actividades, luego desarrolle una formula para etiquetar el desempeño de los trabajadores de forma general logrando evaluar el desempeño del 93.5% de los operadores, empleando pandas, matplot, numpy, seaborn y scipy.
 
@@ -37,6 +38,7 @@ Se logró clasificar a los operadores en niveles de desempeño (eficiente, norma
 
 ### Test A-B Granja de Sandias 🍉 
 Bootcamp TripleTen | 2025
+<img width="859" height="598" alt="sandia" src="https://github.com/user-attachments/assets/56f88512-b346-4879-a661-12a898868449" />
 
 Complete y corregi las especificaciones tecnicas de un Test A/B, de una tienda en linea de sandias, limpiando, analizando y probando estadisticamente las hipotesis establesidas, delimitando el 98% de su mercado base, utilizando pandas, matplot.lib, numpy, scipy, seaborn, math y statsmodels.
 
@@ -55,6 +57,7 @@ Encontramos que existen errores en las especificaciones técnicas, resultando lo
 
 ### Análisis de Negocio KPI´s / Gastos de Marketing Showz 📊 
 Bootcamp TripleTen | 2025
+<img width="993" height="781" alt="kpis" src="https://github.com/user-attachments/assets/5e32e809-876e-423e-9f64-5183ebb3f1f1" />
 
 Separe a los usuarios por sus hábitos de compra, analice  sus indicadores LTV (valor de ciclo de vida del cliente),  CAC (costo de adquisición de cliente) y demás KPI´s, logrando identificar qué tipo de clientes y medios de propaganda resultan más redituables para la empresa, utilizando Python, pandas, matplot.lib, seaborn, numpy y scipy.
 
